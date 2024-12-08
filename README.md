@@ -1,16 +1,18 @@
-## Hi there 👋
+👋I'm a motivated **Information Technology student** from **University College TATI (UCTATI)**, currently pursuing my diploma with a CGPA of **3.89** and a strong passion for programming and problem-solving.   
 
-<!--
-**AbbyLeong04/AbbyLeong04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education:**  
+- **Diploma in Information Technology** (July 2022 – October 2025)  
+  - Dean’s List for 4 consecutive semesters  
+- **SPM** (2021)  
+  - 7A1B1C
 
-Here are some ideas to get you started:
+🌟 **Skills:**  
+- **Technical:**  
+  - Programming: JavaScript (Basic), HTML (Intermediate), CSS (Intermediate), PHP (Intermediate), MySQL (Intermediate), and more.  
+  - Tools: Visual Studio Code, Xampp, Canva, Microsoft Office Suite, etc.  
+- **Languages:**  
+  - Fluent in Malay, English, Mandarin, and Cantonese.  
+- **Soft Skills:**  
+  - Proactive, adaptable, empathetic, organized, and a great communicator.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
