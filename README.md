@@ -2,13 +2,13 @@
 
 🎓 **Education:**  
 - **Diploma in Information Technology** (July 2022 – October 2025)  
-  - Dean’s List for 4 consecutive semesters  
+  - Dean’s List for 6 consecutive semesters  
 - **SPM** (2021)  
   - 7A1B1C
 
 🌟 **Skills:**  
 - **Technical:**  
-  - Programming: JavaScript (Basic), HTML (Intermediate), CSS (Intermediate), PHP (Intermediate), MySQL (Intermediate), and more.  
+  - Programming: JavaScript (Intermediate), HTML (Intermediate), CSS (Intermediate), PHP (Intermediate), Python (Intermediate), and more.  
   - Tools: Visual Studio Code, Xampp, Canva, Microsoft Office Suite, etc.  
 - **Languages:**  
   - Fluent in Malay, English, Mandarin, and Cantonese.  
